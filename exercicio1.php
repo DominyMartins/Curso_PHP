@@ -1,8 +1,3 @@
-/*
-1 - Crie um programa/página em PHP que atenda aos seguintes pontos:
-Tenha um array com cinco ou mais itens
-Exiba o conteúdo desse array, linha a linha
-*/
 
 <!DOCTYPE html>
 <html>
@@ -13,6 +8,11 @@ Exiba o conteúdo desse array, linha a linha
     <h1>10 itens que tem na mochila do Dominy</h1>
     <ul>
         <?php
+/*
+1 - Crie um programa/página em PHP que atenda aos seguintes pontos:
+Tenha um array com cinco ou mais itens
+Exiba o conteúdo desse array, linha a linha
+*/
         // Cria um array com 10 itens
         $mochila_tem = array("Caneta", "Bloco de Notas", "Óculos", "Carteira", 
         "Documentos", "Relógio", "Livros", "Notebook", 
