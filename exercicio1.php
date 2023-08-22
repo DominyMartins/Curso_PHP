@@ -1,3 +1,8 @@
+/*
+1 - Crie um programa/página em PHP que atenda aos seguintes pontos:
+Tenha um array com cinco ou mais itens
+Exiba o conteúdo desse array, linha a linha
+*/
 
 <!DOCTYPE html>
 <html>
